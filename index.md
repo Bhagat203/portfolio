@@ -10,20 +10,28 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# ACE (Auto Copy Editing Tool) July 2021
+# WORK EXPERIENCE
+## ACE (Auto Copy Editing Tool) July 2021
 
 • Developed robust, reusable, and reliable rest APIs that could perform the smart spell functionalities which enhanced their framework and services.
 <br>
 • Simple Basic Authentication was used for it.
 Built more than 30+ rules which were helped in building their framework.
 
-## Header 2
+## Customer Mapper Module January 2022
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+• Developed a rest API application which had Varity of functionalities like User and Admin module, mapping functionalities etc… were built.
+<br>
+• It was role-based application with customized JWT Authorization was implemented in it.
+<br>
+• Developed the Front-end part using Angular
+<br>
 
-### Header 3
+## Horizon Tools January 2023
+• Developed a Java application that would take the inputs from the client APIS and process those data and validate and derive a functionality based on it.
+<br>
+• Language: Java
+<br>
 
 ```js
 // Javascript code with syntax highlighting.
