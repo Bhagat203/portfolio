@@ -33,17 +33,17 @@ Built more than 30+ rules which were helped in building their framework.
 <br>
 
 ---
-layout: default
----
 ### PERSONAL PROFILE
+---
+Name           : Rajesh R   
+Sex            : Male  
+Date of Birth  : 20/03/1999              
+Language Known : English, Kannada, Hindi 
+Nationality    : Indian                  
+Hobbies        : Research, Painting
+---
 
-| Name           | Rajesh R                |
-|:---------------|:------------------------|
-| Sex            | Male                    |
-| Date of Birth  | 20/03/1999              |
-| Language Known | English, Kannada, Hindi |
-| Nationality    | Indian                  |
-| Hobbies        | Research, Painting      |
+
 <br>
 <br>
 
