@@ -33,20 +33,14 @@ Built more than 30+ rules which were helped in building their framework.
 • Language: Java
 <br>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Project Undertaken in Engineering
+## VIRTUAL DOCTOR
+• The aim of our project is to provide medicine and predicting the disease, where chatbot is also included in it.
+<br>
+• Predicting the disease is based on the NaiveBayes and Decision tree algorithm.
+<br>
+• Chatbot which replies to the user command which provides prescription for regular diseases.
+<br>
 
 #### Header 4
 
