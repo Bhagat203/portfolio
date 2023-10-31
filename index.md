@@ -12,6 +12,7 @@ layout: default
 | Hobbies        | Research, Painting      |
 <br>
 <br>
+
 # WORK EXPERIENCE
 ## ACE (Auto Copy Editing Tool) July 2021
 
