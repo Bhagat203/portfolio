@@ -1,15 +1,4 @@
 
-### PERSONAL PROFILE
-
-| Name           | Rajesh R                |
-|:---------------|:------------------------|
-| Sex            | Male                    |
-| Date of Birth  | 20/03/1999              |
-| Language Known | English, Kannada, Hindi |
-| Nationality    | Indian                  |
-| Hobbies        | Research, Painting      |
-<br>
-<br>
 
 # WORK EXPERIENCE
 ## ACE (Auto Copy Editing Tool) July 2021
@@ -41,5 +30,17 @@ Built more than 30+ rules which were helped in building their framework.
 • Predicting the disease is based on the NaiveBayes and Decision tree algorithm.
 <br>
 • Chatbot which replies to the user command which provides prescription for regular diseases.
+<br>
+
+### PERSONAL PROFILE
+
+| Name           | Rajesh R                |
+|:---------------|:------------------------|
+| Sex            | Male                    |
+| Date of Birth  | 20/03/1999              |
+| Language Known | English, Kannada, Hindi |
+| Nationality    | Indian                  |
+| Hobbies        | Research, Painting      |
+<br>
 <br>
 
