@@ -1,6 +1,4 @@
 
-layout: default
-
 ### PERSONAL PROFILE
 
 | Name           | Rajesh R                |
