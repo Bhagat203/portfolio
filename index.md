@@ -13,6 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # ACE (Auto Copy Editing Tool) July 2021
 
 • Developed robust, reusable, and reliable rest APIs that could perform the smart spell functionalities which enhanced their framework and services.
+<br>
 • Simple Basic Authentication was used for it.
 Built more than 30+ rules which were helped in building their framework.
 
