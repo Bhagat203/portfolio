@@ -32,6 +32,9 @@ Built more than 30+ rules which were helped in building their framework.
 • Chatbot which replies to the user command which provides prescription for regular diseases.
 <br>
 
+---
+layout: default
+---
 ### PERSONAL PROFILE
 
 | Name           | Rajesh R                |
