@@ -10,9 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# ACE (Auto Copy Editing Tool) July 2021
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+• Developed robust, reusable, and reliable rest APIs that could perform the smart spell functionalities which enhanced their framework and services.
+• Simple Basic Authentication was used for it.
+Built more than 30+ rules which were helped in building their framework.
 
 ## Header 2
 
