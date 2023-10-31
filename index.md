@@ -1,14 +1,5 @@
----
+
 layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # WORK EXPERIENCE
 ## ACE (Auto Copy Editing Tool) July 2021
@@ -42,27 +33,15 @@ Built more than 30+ rules which were helped in building their framework.
 • Chatbot which replies to the user command which provides prescription for regular diseases.
 <br>
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
+### PERSONAL PROFILE
+ 
+|:---------------|:------------------------|
+| Name           | Rajesh R                |
+| Sex            | Male                    |
+| Date of Birth  | 20/03/1999              |
+| Language Known | English, Kannada, Hindi |
+| Nationality    | Indian                  |
+| Hobbies        | Research, Painting      |
 ### There's a horizontal rule below this.
 
 * * *
