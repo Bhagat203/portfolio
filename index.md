@@ -34,7 +34,8 @@ Built more than 30+ rules which were helped in building their framework.
 <br>
 
 ### PERSONAL PROFILE
- 
+
+| head1          | head two                |
 |:---------------|:------------------------|
 | Name           | Rajesh R                |
 | Sex            | Male                    |
