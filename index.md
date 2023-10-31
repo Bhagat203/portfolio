@@ -38,7 +38,7 @@ Built more than 30+ rules which were helped in building their framework.
 Name           : Rajesh R   
 Sex            : Male  
 Date of Birth  : 20/03/1999              
-Language Known : English, Kannada, Hindi 
+Language Known : English, Kannada, Hindi <br>
 Nationality    : Indian                  
 Hobbies        : Research, Painting
 ---
