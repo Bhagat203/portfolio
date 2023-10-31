@@ -2,11 +2,17 @@
 ### PERSONAL PROFILE
 
 | Name           | Rajesh R                |
+<br>
 |:---------------|:------------------------|
+<br>
 | Sex            | Male                    |
+<br>
 | Date of Birth  | 20/03/1999              |
+<br>
 | Language Known | English, Kannada, Hindi |
+<br>
 | Nationality    | Indian                  |
+<br>
 | Hobbies        | Research, Painting      |
 <br>
 <br>
